@@ -1,0 +1,14 @@
+### Andrew Bradley (github@atb0.com)
+### vimrc, plugins, and colors
+
+
+The file .vimrc and the folder .vim should be placed in your home directory
+
+My .vimrc file is mostly commented, and would probably make a decent starting
+point for .vimrc files
+
+If my comments are not descriptive enough, type the command 
+':help commandname' "e.g., ':help textwidth'
+to see the actual option documentation
+
+Todo:add colorschemes and re-oraganize
