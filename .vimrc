@@ -1,3 +1,6 @@
+" 2012 Andrew Bradley (github@atb0.com)
+
+" Force 256 colors
 set t_Co=256
 
 " Turn off vi compatibility mode
